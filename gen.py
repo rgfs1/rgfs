@@ -11,25 +11,7 @@ def logo():
     clear = "\x1b[0m"
     colors = [36, 32, 34, 35, 31, 37]
 
-    x = """ 
- 
-
-
-
-		888               8888888888P d8b          
-		888                     d88P  Y8P          
-		888                    d88P                
-		888       8888b.      d88P    888 88888b.  
-		888          "88b    d88P     888 888 "88b 
-		888      .d888888   d88P      888 888  888 
-		888      888  888  d88P       888 888 d88P 
-		88888888 "Y888888 d8888888888 888 88888P"  
-	                	                  888      
-	        	                          888      
-		                                  888      
-                                                  
-                   
-
+    x = """                    
                                  CODED By LaZip:")
                         
                        Bulk Phone Number Generator V1.0   |  Coded by xMarvel ( xeon )                          
